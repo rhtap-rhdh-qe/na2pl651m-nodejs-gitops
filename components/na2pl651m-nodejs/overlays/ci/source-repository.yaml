@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: na2pl651m-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/na2pl651m-nodejs
